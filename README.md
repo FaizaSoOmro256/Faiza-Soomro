@@ -1,5 +1,5 @@
 
-![logo](https://github.com/FaizaSoOmro256/Faiza-Soomro/blob/main/WhatsApp%20Image%202024-04-27%20at%207.24.39%20PM%20(1).jpeg) 
+![logo](https://github.com/FaizaSoOmro256/FaizaSoOmro256/blob/main/WhatsApp%20Image%202024-04-28%20at%203.24.29%20PM.jpeg) 
 <h1 align="center">Hi 👋, I'm Faiza Soomro</h1>
 <h3 align="center">An inspired frontend developer flourishing in Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.91b513350e4fc3e7ac634fbcca36fc25?pid=1.7&rurl=https%3a%2f%2fmedia1.giphy.com%2fmedia%2fRbDKaczqWovIugyJmW%2fgiphy.gif&ehk=%2fB6Z7%2fiCpPxfiXebbsotZc5A%2fb4Vo8EAU9xGMKuHg98%3d">
